@@ -151,8 +151,7 @@ API_URL = st.secrets.get("API_URL", "http://localhost:8000")
 
 ## Author
 
-Built by [your name] · Imperial College London MSc Fintech  
-Background: Murex (capital markets software)
+Built by Antonio Doumit · Imperial College London MSc Fintech  
 
 ---
 
